@@ -91,7 +91,7 @@ DB_PASSWORD=postgres
 DB_NAME=crypto_wallet
 REDIS_HOST=localhost
 REDIS_PORT=6379
-JWT_SECRET=your-super-secret-jwt-key
+JWT_SECRET=
 ```
 
 4. **Install dependencies**
