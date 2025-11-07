@@ -434,4 +434,3 @@ Failed to fetch prices from CoinGecko
 
 ---
 
-**Happy Coding! 🚀**
