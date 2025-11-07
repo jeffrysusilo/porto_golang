@@ -428,24 +428,9 @@ Failed to fetch prices from CoinGecko
 ```
 **Solusi**: Cek koneksi internet atau gunakan cache yang ada
 
-## 📈 Future Enhancements
 
-- [ ] Transfer antar user
-- [ ] Trading simulation (buy/sell crypto)
-- [ ] Price alerts
-- [ ] Multiple JWT token types (access + refresh)
-- [ ] Rate limiting
-- [ ] WebSocket untuk real-time prices
-- [ ] Admin dashboard
-- [ ] API documentation dengan Swagger
 
-## 📄 License
 
-MIT License
-
-## 👨‍💻 Author
-
-Portfolio Project - Crypto Wallet Service
 
 ---
 
